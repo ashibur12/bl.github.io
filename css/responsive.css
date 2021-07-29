@@ -1,0 +1,356 @@
+
+.wrap{
+	width:960px;
+	margin:0 auto;
+	display:block;
+	
+}
+.img{
+	max-width:100%;
+	height:auto;
+}
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 960px) {
+.wrap{
+	width:100%;
+}
+		
+}
+
+
+
+@media only screen and (max-width: 767px) {	
+.wrap{
+	width:100%;
+}
+/*logo*/
+	.logo{
+	width:100%;
+	float:none;
+}
+/*search*/
+	.search{
+	width:100%;
+	float:none;
+}
+/*top 2nd right site*/
+	.contrac{
+	width:100%;
+	float:none;
+	
+}
+ 	
+}
+
+
+
+
+@media only screen and (min-width: 601px) and (max-width: 767px) {	
+.wrap{
+width:100%;
+}
+	
+/*logo*/
+	.logo{
+	width:100%;
+	float:none;
+}
+/*search*/
+	.search{
+	width:100%;
+	float:none;
+}
+/*top 2nd right site*/
+	.contrac{
+	width:100%;
+	float:none;
+	
+}
+/*section1*/
+ .section1{
+	width:48%;
+
+}
+.section1_2{
+	width:48%;
+	margin-top: 6px;
+	
+}
+.section_2right{
+	width:98%;
+
+}
+/*article*/
+.article1_galery{
+	width:50%;
+}
+/*<!--article galaeY 2-->*/
+
+.article1_galery2{
+	width:100%;	
+}
+.article1_title{
+	width:90%;
+	
+}
+.product{
+	width:43%;
+	
+}
+/*aside*/
+.sider1{
+	width:50%;
+}
+.customer{
+	width:43%
+}
+.company{
+	width:48%;
+}
+.feedback{
+	width:43%
+}
+.follow{
+	width:95%	
+}
+
+
+
+
+
+
+
+
+}
+
+
+
+
+@media only screen and (max-width: 600px) {
+.wrap{
+width:100%;
+}
+
+  /*1st left*/
+  .social{
+	width:100%;
+	float:none;
+}
+/*1st right*/
+	.topmenu{
+	width:100%;
+	float:none;
+}
+/*logo*/
+	.logo{
+	width:100%;
+	float:none;
+}
+/*search*/
+	.search{
+	width:100%;
+	float:none;
+}
+/*top 2nd right site*/
+	.contrac{
+	width:100%;
+	float:none;
+	
+}
+/*section1*/
+ .section1{
+	width:100%;
+	float:none;
+}
+
+.section1_2{
+	width:100%;
+	float:none;
+}
+.section_2right{
+	width:100%;
+	float:none;
+}
+/*articlr*/
+.article1_galery{
+	width:100%;
+	float:none;
+}
+.article1_galery2{
+	width:100%;
+	float:none;
+	
+}
+.article1_title{
+	width:90%;
+	float:none;
+}
+.product{
+	width:100%;
+	float:none;
+	
+}
+.article4 a{
+	padding:3px;
+
+}
+/*<!--aside-->*/
+.sider1{
+	width:100%;
+	float:none;
+	
+}
+.customer{
+	width:100%;
+	float:none;
+	
+}
+
+.company{
+	width:100%;
+	float:none;
+}
+.feedback{
+	width:100%;
+	float:none;
+}
+.follow{
+	width:100%;
+	float:none;	
+}
+
+
+}
+
+
+	
+
+
+
+
+@media 
+	only screen and (-webkit-min-device-pixel-ratio: 2),
+	only screen and (min-device-pixel-ratio: 2) {
+	
+.wrap{
+width:100%;
+}
+  #cssmenu > ul > li.collapsed {
+    display: inline-block !important;
+    *display: inline;
+    zoom: 1;
+  }
+  #cssmenu > ul ul li.collapsed {
+    display: block !important;
+  }
+  /*1st left*/
+  .social{
+	width:100%;
+	float:none;
+}
+/*1st right*/
+	.topmenu{
+	width:100%;
+	float:none;
+}
+/*logo*/
+	.logo{
+	width:100%;
+	float:none;
+}
+/*search*/
+	.search{
+	width:100%;
+	float:none;
+}
+/*top 2nd right site*/
+	.contrac{
+	width:100%;
+	float:none;
+	
+}
+/*section1*/
+ .section1{
+	width:100%;
+	float:none;
+}
+
+.section1_2{
+	width:100%;
+	float:none;
+}
+.section_2right{
+	width:100%;
+	float:none;
+}
+/*articlr*/
+.article1_galery{
+	width:100%;
+	float:none;
+}
+.article1_galery2{
+	width:100%;
+	float:none;
+	
+}
+.article1_title{
+	width:90%;
+	float:none;
+}
+.product{
+	width:100%;
+	float:none;
+	
+}
+.article4 a{
+	padding:3px;
+
+}
+/*<!--aside-->*/
+.sider1{
+	width:100%;
+	float:none;
+	
+}
+.customer{
+	width:100%;
+	float:none;
+	
+}
+
+.company{
+	width:100%;
+	float:none;
+}
+.feedback{
+	width:100%;
+	float:none;
+}
+.follow{
+	width:100%;
+	float:none;	
+}
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
